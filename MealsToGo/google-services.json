@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89835668353",
+    "project_id": "mealstogo-a5d7b",
+    "storage_bucket": "mealstogo-a5d7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89835668353:android:2bf4757fb2d6a2831b5e80",
+        "android_client_info": {
+          "package_name": "com.airbnb.android.react.lottie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQYqBHnNqT6fawraZv3a4teaDFwqcHTvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

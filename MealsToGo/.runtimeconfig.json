@@ -1,0 +1,8 @@
+{
+  "stripe": {
+    "key": "pk_test_51PHWLfHTTSVORgAjtEN7Z3pQZgEL12ls5pMPJ1zBBJDB6lVN1SEnmzNQNxUQOHx6JGRc9Kcok0Ues6oj0glyk9WE00Lzi7oDNX"
+  },
+  "google": {
+    "key": "AIzaSyBQYqBHnNqT6fawraZv3a4teaDFwqcHTvM"
+  }
+}
