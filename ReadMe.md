@@ -35,7 +35,7 @@ MealsToGo is application for finding restaurants and buying meals.
 - 9.Run the Expo app
 - 10.Make sure env.js is set to mock mode real keys you want to test with (default to true on master).
 
-![image](MealsToGo/assets/images/Home_authorized_users.png)
+![image](MealsToGo/assets/images/Home_Favourites.png)
 ![image](MealsToGo/assets/images/Google_Maps.png)
 ![image](MealsToGo/assets/images/Stripe Payment.png)
 ![image](MealsToGo/assets/images/Settings_Page.png)
