@@ -44,5 +44,4 @@ MealsToGo is application for finding restaurants and buying meals.
 ![image](MealsToGo/assets/images/Register.png)
 ![image](MealsToGo/assets/images/Restaurant Details.png)
 ![image](MealsToGo/assets/images/Favourites_Restaurants.png)
-![image](MealsToGo/assets/images/Home_authorized_users.png)
 ![image](MealsToGo/assets/images/Cart_Empty.png)
