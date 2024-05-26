@@ -19,7 +19,7 @@ MealsToGo is application for finding restaurants and buying meals.
 - 1.Go to functions folder
 - 2.Make sure you have node 20 running or later (if later update the engine in package.json)
 - 3.Run npm i
-- 4.Create a firebase project and make a web app - https://console.firebase.google.com/u/0/
+- 4.In Firebase console: Create a firebase project, make a web app,make Authentication Email/Password - https://console.firebase.google.com/u/0/
 - 5.Copy firebaseConfig from firebase web app and paste it in App.js so it connects to the right firebase app
 - 6.Login to firebase firebase login
 - 7.Set the correct project name in firebase.json
